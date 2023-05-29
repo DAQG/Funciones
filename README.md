@@ -34,3 +34,22 @@ Las funciones declaradas se definen con la palabra reservada “function” segu
 
 ![image](https://github.com/DAQG/Funciones/assets/117754291/2f452395-21aa-4612-a9de-abf3fac2453c)
 
+
+5- MANIPULACION DOM
+Existen diferentes acciones para poder crear,eliminar y ocultar los elementos dentro del codigo html.
+
+![image](https://github.com/DAQG/Funciones/assets/117754291/080dffa9-e94b-454d-810f-5d5a7faedbb8)
+
+6-ASINCRONISMO
+El asincronismo es capaz de ejecutar código en segundo plano mientras otro código continúa ejecutándose en primer plano
+
+![image](https://github.com/DAQG/Funciones/assets/117754291/cda75a32-81b0-4ff9-8db2-d8003111cb94)
+
+O con el metodo await
+
+![image](https://github.com/DAQG/Funciones/assets/117754291/eb411079-c128-4721-95df-224622104f43)
+
+
+
+
+
