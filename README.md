@@ -36,6 +36,7 @@ Las funciones declaradas se definen con la palabra reservada “function” segu
 
 
 5- MANIPULACION DOM
+
 Existen diferentes acciones para poder crear,eliminar y ocultar los elementos dentro del codigo html.
 
 ![image](https://github.com/DAQG/Funciones/assets/117754291/080dffa9-e94b-454d-810f-5d5a7faedbb8)
@@ -48,6 +49,26 @@ El asincronismo es capaz de ejecutar código en segundo plano mientras otro cód
 O con el metodo await
 
 ![image](https://github.com/DAQG/Funciones/assets/117754291/eb411079-c128-4721-95df-224622104f43)
+
+6-LOCAL STORAGE
+
+El localStorage se utiliza para guardar datos de manera local en el navegador.
+
+![image](https://github.com/DAQG/Funciones/assets/117754291/e62cce67-c6ec-4e37-af6f-c8fd007f3d65)
+
+
+7- MODULOS
+
+Los módulos permiten dividir un programa en partes más pequeñas y encapsuladas, lo que facilita su mantenimiento y colaboración en proyectos grandes, pueden exportar (hacer público) ciertos valores, como funciones, objetos o variables, para que puedan ser utilizados en otros archivos. Además, pueden importar (utilizar) valores exportados desde otros módulos. Esto promueve el modularidad y la separación de responsabilidades en el código, mejorando la legibilidad, reusabilidad y escalabilidad. 
+
+
+En este caso calculamos el IMC
+
+![image](https://github.com/DAQG/Funciones/assets/117754291/25ee3b0e-da5e-4dea-9557-2654c4b93e02)
+
+![image](https://github.com/DAQG/Funciones/assets/117754291/f3f4f60a-4a56-47da-9e22-e9dfff5b128e)
+
+
 
 
 
